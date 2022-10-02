@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Märkmed
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Siia kogunevad kõik mu märkmed.

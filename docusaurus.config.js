@@ -53,12 +53,21 @@ const config = {
       }),
     ],
   ],
-    plugins: [[
+    plugins: [
+        [
         '@docusaurus/plugin-content-docs',
         {
             id: 'notes',
             path: 'docs/notes',
             routeBasePath: 'notes',
+        },
+        ],
+        [
+        '@docusaurus/plugin-content-docs',
+        {
+            id: 'plan',
+            path: 'docs/plan',
+            routeBasePath: 'plan',
         },
         ],
     ],
@@ -88,6 +97,18 @@ const config = {
             position: 'left',
             sidebarPath: require.resolve('./notesSidebar.js'),
             label: 'Märkmed'},
+            {
+            href: 'https://github.com/pearupung/bachelor-thesis',
+            label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'doc',
+            docsPluginId: 'plan',
+            docId: 'intro',
+            position: 'left',
+            sidebarPath: require.resolve('./planSidebar.js'),
+            label: 'Kavand'},
             {
             href: 'https://github.com/pearupung/bachelor-thesis',
             label: 'GitHub',
