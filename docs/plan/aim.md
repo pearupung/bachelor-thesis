@@ -6,6 +6,7 @@ sidebar_position: 3
 
 Lõputööl on kolm eesmärki:
 
-1. analüüsida elulookirjeldusi koostada aitavaid rakendusi ja rahulolu nendega,
-2. luua elulookirjelduse loomiseks rakendus või teek, mis sisaldab analüüsi põhjal tulusamaid featuure
-3. testida ja koondada tagasisidet loodud rakenduse või teegi kohta
+1. analüüsida, millistest osadest CV koosneb ning millised masinloetavad andmeallikad kohalduvad neile
+2. analüüsida, millistes riikides on ametlikke masinloetavaid andmeallikaid ning kui lihtne on nendega liidestuda
+3. valida välja kõige kasutatavamad liidesed ning teha teek, mis koondab elulooinfo liidestest kasutajale kokku
+4. testida ja koondada tagasisidet teegi kasutatavuse kohta

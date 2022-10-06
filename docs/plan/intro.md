@@ -14,6 +14,6 @@ Lõputöö teema kavand koosneb võikestest andmekildudest ja suurematest kirjel
 6. Juhendaja töökoht: Tallinna Tehnikaülikool, Infotehnoloogia teaduskond, IT
    Kolledž, Dotsent (1,00)
 7. Juhendaja e-posti aadress: Jaanus.poial@taltech.ee
-8. Lõputöö teema/pealkiri: Elulookirjelduse loome ja seda abistavad rakendused, *Applications aiding in creation of a curriculum vitae*
+8. Lõputöö teema/pealkiri: Eluloosündmuste koondamine elulookirjelduseks olemasolevate liideste ja registrite põhjal, *Gathering life events to a *curriculum vitae* from existing interfaces and databases*
 
 Ülejäänud teemadega saab tutvuda klikates külgpaneelis ringi.
