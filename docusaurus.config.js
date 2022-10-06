@@ -119,15 +119,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Thesis',
-                to: '/docs/intro',
-              },
-            ],
-          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Pearu Pung. Built with Docusaurus.`,
       },
