@@ -35,5 +35,5 @@ jobs:
         username: ${{ secrets.USER }}
         key: ${{ secrets.PRIVATE_KEY }}
         source: "./build/*"
-        target: "/usr/share/caddy"
+        target: "/usr/share/caddy/thesis"
         strip_components: 1
