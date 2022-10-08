@@ -2,10 +2,7 @@
 
 This is the repo for my bachelor thesis. All contents are in Estonian since the thesis is in Estonian. Ping @pearupung if anything needs translating. 
 
-Live demo is located here: http://46.101.162.222. There is no domain name as of yet - need to hassle with Zone to make it right.
-
-
-
+Live demo is located here: http://thesis.pearupung.ee.
 
 # Website
 
