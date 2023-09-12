@@ -5,7 +5,7 @@ import { Temporal } from '@js-temporal/polyfill'
 const FeatureList = [
   {
     title: "Kavandi esitamine",
-    deadline: "2022-10-24T00:00:00.000",
+    deadline: "2023-09-27T00:00:00.000",
     Svg: require('@site/static/img/plan-icon.svg').default,
     description: (
       <>
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Lõputöö esitamine eelkaitsmiseks',
-    deadline: "2022-12-01T00:00:00.000",
+    deadline: "2023-12-07T00:00:00.000",
     Svg: require('@site/static/img/document.svg').default,
     description: (
       <>
@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Lõputöö eelkaitsmised',
-    deadline: "2022-12-06T00:00:00.000",
+    deadline: "2023-12-12T00:00:00.000",
     Svg: require('@site/static/img/presentation-talk.svg').default,
     description: (
       <>
@@ -36,7 +36,7 @@ const FeatureList = [
   },
   {
     title: 'Lõputöö esitamine kaitsmiseks',
-    deadline: "2023-01-05T00:00:00.000",
+    deadline: "2024-01-04T00:00:00.000",
     Svg: require('@site/static/img/reviewed-document.svg').default,
     description: (
       <>
