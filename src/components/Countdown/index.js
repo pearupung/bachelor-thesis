@@ -48,7 +48,7 @@ const FeatureList = [
   },
   {
     title: 'Lõputöö kaitsmised',
-    deadline: "2023-01-17T00:00:00.000",
+    deadline: "2024-01-16T00:00:00.000",
     Svg: require('@site/static/img/presentation.svg').default,
     description: (
       <>
