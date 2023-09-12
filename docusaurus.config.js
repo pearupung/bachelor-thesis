@@ -97,7 +97,11 @@ const config = {
             position: 'left',
             sidebarPath: require.resolve('./notesSidebar.js'),
             label: 'Märkmed'},
-            {
+          {
+            type: 'docsVersionDropdown',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/pearupung/bachelor-thesis',
             label: 'GitHub',
             position: 'right',
