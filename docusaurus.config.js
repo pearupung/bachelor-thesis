@@ -84,7 +84,7 @@ const config = {
           {
             type: 'doc',
             to: 'docs/thesis/',
-            docId: 'introduction',
+            docId: 'intro',
             position: 'left',
             label: 'Lõputöö',
             sidebarPath: require.resolve('./sidebars.js')
