@@ -14,4 +14,5 @@ kandidaatide valikul ning sellest lähtuvalt loetleda nõuded tarkvarale. Analü
 4. liidestustest teiste teenuste ja tarkvaradega
 5. sihtgrupist ja populaarsusest turul
 6. halduskoormusest
+
 Analüüsi põhjal täpsustatakse praktilises osas tehtud valikute tagamaid ning loetletakse elulookirjelduse loome rakenduse põhi- ja lisafeatuure; koostatakse nende põhjal praktilises osas tethud valik.

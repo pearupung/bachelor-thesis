@@ -1,12 +1,8 @@
----
-sidebar_position: 3
----
+# Hindamismaatriks
 
-# Hindamisjuhend
+See leht keskendub eneseanalüüsile ning koondab hinnanguid, mis lõputöö lõpphindeks võiks olla. Need on hinnangud on lõputöö autorilt endalt või koondatud arutelles teiste osapooltega - eesmärk on teadmus, mis on töö kvaliteet. Hinnangud põhinevad lõputöö hindamismaatriksil. Siin on autori enda hinnang lõputööle.
 
-See leht keskendub eneseanalüüsile ning koondab hinnanguid, mis lõputöö lõpphindeks võiks olla. Need on hinnangud on lõputöö autorilt endalt või koondatud arutelles teiste osapooltega - eesmärk on teadmus, mis on töö kvaliteet. Hinnangud põhinevad lõputöö hindamismaatriksil.
-
-## Teema aktuaalsuse esiletoomine
+# Teema aktuaalsuse esiletoomine
 
 `Hinne: Nõrk`
 
